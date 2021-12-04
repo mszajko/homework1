@@ -10,11 +10,16 @@ Robinhoods streghts consist of its easy user experience as well as it's strong m
 Robinhood's prognosis is to keep expanding annd inovating peoples day to day finances with no minimun no fee checking accounts with 3% interest payed. They plan on almost becoming a bank by iffering direct deposits and bill paying features as well as the checking acccounts previously mentioned.
 
 Resources: 
-*https://en.wikipedia.org/wiki/Robinhood_(company) ​(Wikipedia page)
-https://about.robinhood.com/
-https://www.bloomberg.com/news/features/2018-02-08/brokerage-app-robinhood-thinks-bitcoin-belongs-in-your-retirement-plan​ ​(tales of the growth of RobinHood, including comparison with Amazon)
-https://www.investopedia.com/robinhood-review-4587919​ ​(Review of RobinHood, with
-complaints about how little research they offer, perhaps motivated by Investopedia’s established brokerage clients.).
-https://support.robinhood.com/hc/en-us/articles/360001397126-What-s-Clearing-by-Robinhood (An explanation of RobinHood’s clearing and settlement process. Since everybody has to do the same thing, this is a good introduction to what needs to be done, in general.)
-https://www.cnbc.com/2018/05/11/how-commission-free-trading-app-robinhood-tries-to-make- money.html ​(discusses RobinHood’s growth plans)
-https://siftery.com/company/Robinhood?utm_campaign=Robinhood&utm_medium=techstack&u tm_so urce=quora​ ​(RobinHood’s technology stack; apparently this has been verified with RobinHood employees)*
+*https://en.wikipedia.org/wiki/Robinhood_(company) ​(Wikipedia page)*
+
+*https://about.robinhood.com/*
+
+*https://www.bloomberg.com/news/features/2018-02-08/brokerage-app-robinhood-thinks-bitcoin-belongs-in-your-retirement-plan​ ​(tales of the growth of RobinHood, including comparison with Amazon)*
+
+*https://www.investopedia.com/robinhood-review-4587919​ ​(Review of RobinHood, with complaints about how little research they offer, perhaps motivated by Investopedia’s established brokerage clients.).*
+
+*https://support.robinhood.com/hc/en-us/articles/360001397126-What-s-Clearing-by-Robinhood (An explanation of RobinHood’s clearing and settlement process. Since everybody has to do the same thing, this is a good introduction to what needs to be done, in general.)*
+
+*https://www.cnbc.com/2018/05/11/how-commission-free-trading-app-robinhood-tries-to-make- money.html ​(discusses RobinHood’s growth plans)*
+
+*https://siftery.com/company/Robinhood?utm_campaign=Robinhood&utm_medium=techstack&u tm_so urce=quora​ ​(RobinHood’s technology stack; apparently this has been verified with RobinHood employees)*
