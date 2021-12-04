@@ -11,7 +11,7 @@ Robinhoods streghts consist of its easy user experience as well as it's strong m
     * What is the prognosis for this company? Where do they expect to be in the future?
 Robinhood's prognosis is to keep expanding annd inovating peoples day to day finances with no minimun no fee checking accounts with 3% interest payed. They plan on almost becoming a bank by iffering direct deposits and bill paying features as well as the checking acccounts previously mentioned.
 
-##Resources:
+##Resources:##
 
 *https://en.wikipedia.org/wiki/Robinhood_(company) ​(Wikipedia page)*
 
