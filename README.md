@@ -1,6 +1,6 @@
 # homework1
 
-[RobinHood Logo](https://howardlindzon.com/wp-content/uploads/2015/12/robinhood-logo-black-vert-center.png)
+![RobinHood Logo](https://howardlindzon.com/wp-content/uploads/2015/12/robinhood-logo-black-vert-center.png)
 
     * What is the background of your company? What do they do? Who are their competitors?
 Robinhood is a stock and crypto trading platform that offers unlimited comission free trading for pubic companies in the US as well as ETF's, stock options, and cryptocurrencies. Some competitors are Coinbase, E trade, Webull, ect...
